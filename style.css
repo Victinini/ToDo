@@ -1,0 +1,45 @@
+.container {
+    background-color: white;
+    box-shadow: 0px 0px 17px 5px rgba(0, 0, 0, 0.85);
+    width: 500px;
+    height: 95vh;
+    margin: auto;
+    font-family: "Courgette", cursive;
+    -webkit-box-shadow: 5px 5px 15px 5px #ff8080, -9px 5px 15px 5px #ffe488,
+      -7px -5px 15px 5px #8cff85, 12px -5px 15px 5px #80c7ff,
+      12px 10px 15px 7px #e488ff, -10px 10px 15px 7px #ff616b,
+      -10px -7px 27px 1px #8e5cff, 0px 0px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #ff8080, -9px 5px 15px 5px #ffe488,
+      -7px -5px 15px 5px #8cff85, 12px -5px 15px 5px #80c7ff,
+      12px 10px 15px 7px #e488ff, -10px 10px 15px 7px #ff616b,
+      -10px -7px 27px 1px #8e5cff, 0px 0px 15px 5px rgba(0, 0, 0, 0);
+}
+
+.header {
+    background-color: rgb(150, 172, 241);
+    width: 100%;
+    height: 78px;
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 22px;
+    box-sizing: border-box;
+}
+
+p {
+  margin: 0 0;
+  color: white;
+  font-size: 40px;
+}
+
+input {
+  border: none;
+  outline: none;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: "Courgette", cursive;
+  padding: 10px 22px;
+}
